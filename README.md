@@ -33,7 +33,7 @@ Minutos en un año=525600 minutos
  
 Por lo tanto (1−0.9980)(525600)=1051.2 minutos
  
-=(1051.2minutos)(1 hora60 minutos)=17.52 horas
+=(1051.2minutos)(1 hora/60 minutos)=17.52 horas
 
 ### Qué te pareció el evento
-¡Inolvidable!
+¡Inolvidable!, Fue una experiencia que valió la pena, porque aprendes mucho, además nos divertimos bastantey conocimos nuevas personas.
