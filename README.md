@@ -6,7 +6,7 @@
 Asistente legal sobre el trabajo, evita ser sobreexplotado
 
 ### Link al Tiktok
-[Link del tiktok](https://vm.tiktok.com/ZMd3Jo9Bn/)
+[Video explicativo](https://vm.tiktok.com/ZMd3Jo9Bn/)
 
 ### Diagrama de Azure
 ![esquema](https://user-images.githubusercontent.com/86934275/127771518-81e9c76d-2bb1-4819-a6dd-99f12f8ce4e5.png)
