@@ -1,4 +1,4 @@
-# worklaw-bot
+# Worklaw-bot
 ![Worklaw-bot](https://user-images.githubusercontent.com/86934275/127770646-16c7520b-4cfe-4a01-a8b6-538aa9ef59cb.png)
 
 
@@ -19,13 +19,16 @@ Bot services: 0.999
 SLA Compuesto =0.999×0.999=0.9980
 
 
-### TCO 3 años y Precio Total por mes
-Por año
+## TCO 3 años y Precio Total por mes
+### Por año
+
 
 ![TCO](https://user-images.githubusercontent.com/86934275/127770824-1d4b3afb-2fc3-40b1-ab50-1f4900d03900.png)
 
-Por mes
-![mes](https://user-images.githubusercontent.com/86934275/127770885-45051121-25f6-4d4b-8bed-e1ac7d0a8e49.png)
+
+### Por mes
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/86934275/127776393-c13e5be1-3ee0-4498-a17e-9ebe19b62663.png)
 
 ### Tiempo sin disponibilidad a un año
 
